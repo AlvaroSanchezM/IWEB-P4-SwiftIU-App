@@ -1,0 +1,7 @@
+Álvaro Sánchez Martínez
+Mejoras 1, 2, 3, 4, 5
+Mejoras adicionales:
+-Se marcan las acertadas en la lista principal
+-Modo offline sin token y sin record (igual que la P4.1)
+-Gestor de tokens -> permite loguear y desloguear, sin loguear está el modo offline
+-Tutorial para crear cuenta, crear token e iniciar sesión

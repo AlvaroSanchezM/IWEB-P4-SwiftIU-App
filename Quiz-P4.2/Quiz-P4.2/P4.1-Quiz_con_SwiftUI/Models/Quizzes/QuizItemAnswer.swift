@@ -1,0 +1,14 @@
+//
+//  QuizItemAnswer.swift
+//  P4.1-Quiz_con_SwiftUI
+//
+//  Created by c134 DIT UPM on 24/11/23.
+//
+
+import Foundation
+
+struct QuizItemAnswer: Codable {
+    let quizId: Int
+    let answer: String
+    let result: Bool
+}
